@@ -1,0 +1,11 @@
+name: web-embed-test
+channels:
+  - pyviz
+  - defaults
+dependencies:
+  - pandas
+  - jupyterlab
+  - matplotlib
+  - holoviews >=1.14.2
+  - hvplot
+prefix: /opt/anaconda3/envs/web-embed-test
